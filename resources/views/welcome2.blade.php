@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Teste Murilo
+                    WELCOME 2
                 </div>
 
                 <div class="links">
